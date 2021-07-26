@@ -44,6 +44,12 @@
         return scene;
     };
 
+    engine.runRenderLoop(function () {
+        sceneToRender.render();
+    });
+
+    const sceneToRender = createScene();
+
 </script>
 
 
