@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ait.ethz.ch/people/tlangerak'>PhD Student @ ETH Zurich</a>. hello@thomaslangerak.nl
+subtitle: <a href='https://ait.ethz.ch/people/tlangerak'>PhD Student @ ETH Zurich</a>.
 
 profile:
   align: right
