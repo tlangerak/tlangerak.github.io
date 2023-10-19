@@ -1,6 +1,11 @@
 /*****************************
  * CV shared styles
  *****************************/
+.col-md-10{
+    flex: 0 0 75%;
+    max-width: 75%;
+    margin-left: 20px;
+}
 
 div.container-link-button {
   margin-right: 0.5rem;
