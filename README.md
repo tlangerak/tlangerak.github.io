@@ -219,7 +219,7 @@ $ cd <your-repo-name>
 
 ---
 
-#### Local setup using Docker (Recommended)
+#### Local setup using   Docker (Recommended)
 Using Docker to install Jekyll and Ruby dependencies is the easiest way.
 
 You need to take the following steps to get `al-folio` up and running on your local machine:
