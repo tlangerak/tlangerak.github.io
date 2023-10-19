@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>PhD Student @ ETH Zurich</a>. hello@thomaslangerak.nl
 
 profile:
   align: right
