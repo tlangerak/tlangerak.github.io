@@ -10,6 +10,8 @@ nav_order: 5
 <h2 class="bibliography">2023</h2>
 <ol class="bibliography">
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction</div></div></div></li>
+	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Computational Haptics</div></div></div></li>
+	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Computational Rationality</div></div></div></li>
 </ol>
 <h2 class="bibliography">2022</h2>
 <ol class="bibliography"> 
