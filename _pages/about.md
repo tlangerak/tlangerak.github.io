@@ -22,4 +22,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Thomas is a Ph.D. student in Computer Science at [ETH Z\"urich](https://ethz.ch).
+I am a Ph.D. student in Computer Science at [ETH Zürich](https://ethz.ch), and am part of the [AIT Lab](https://ait.ethz.ch) led by [Prof. Dr. Otmar Hilliges](https://ait.ethz.ch/people/hilliges). My research lies at the intersection of Machine Learning and Human-Computer Interaction. Ifocus on 
