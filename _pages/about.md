@@ -22,4 +22,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am interested in exploring the intersection of Human-Computer Interaction, Optimization, and Reinforcement Learning. My current research is focused on adaptive user interfaces from a multi-agent Reinforcement Learning perspective. In the past I built custom hardware for input and output devices, and developed novel control strategies for haptic interactions.
+Thomas is a Ph.D. student in Computer Science at [ETH Z\"urich](https://ethz.ch).
