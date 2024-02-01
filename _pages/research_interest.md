@@ -6,6 +6,7 @@ description: a summary of research accomplishments, current work, and future dir
 nav: true
 nav_order: 2
 ---
+# Research Vision
 
 The goal of my research is to make **the interaction between intelligent systems (e.g., robots, semi-autonomous vehicle, and digital assistants) and humans more intuitive.** I believe that Contextual and Embodied Artificial Intelligence (AI) causes the boundaries between the physical and digital worlds to blur[^1], necessitating technological advances that **prioritize human-centric control of intelligent systems.** My research aims to enable a future where all humans can interact with intelligent systems instinctively, unobtrusively, and with minimal effort required to master.
 
