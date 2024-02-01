@@ -629,7 +629,7 @@ footer.sticky-bottom {
   margin-top: 2rem;
 
   h1 {
-    color: var(--global-theme-color);
+    color: var(--white-color);
     font-size: 2rem;
     text-align: center;
     margin-top: 1em;
@@ -645,8 +645,8 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--white-color:);
-    border-top: 1px solid var(--white-color:);
+    color: var(--white-color);
+    border-top: 1px solid var(--white-color);
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
