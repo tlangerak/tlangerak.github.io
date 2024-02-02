@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be graduating this year. I am look for next opportunities in academia and industry, both as intern and full-time. 
+I will be graduating this year. I am looking for next opportunities in academia and industry, both as intern and full-time. 
