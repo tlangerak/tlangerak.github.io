@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: research-interest
 permalink: /research_interest/
 title: research interest
 description: a summary of research accomplishments, current work, and future directions.
