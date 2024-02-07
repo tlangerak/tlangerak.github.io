@@ -99,6 +99,17 @@
       "courses": ["Minor: Entrepeneurship"]
     },
 
+        {
+      "institution": "Carnegie Mellon University, Pittsburgh, USA",
+      "url": "https://www.cmu.edu/",
+      "area": "Industrial Design",
+      "studyType": "Exchange Student",
+      "startDate": "2015",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+
     {
       "institution": "Eindhoven University of Technology, Eindhoven, the Netherlands",
       "url": "https://www.tue.nl/",
