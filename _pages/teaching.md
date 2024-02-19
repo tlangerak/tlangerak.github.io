@@ -43,6 +43,7 @@ nav_order: 5
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction</div></div></div></li>
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Advanced Topics in Technical HCI</div></div></div></li>
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Ubiquitous Computing</div></div></div></li>
+	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Computational Interaction</div></div></div></li>
 </ol>
 <h2 class="bibliography">2019</h2>
 <ol class="bibliography">
