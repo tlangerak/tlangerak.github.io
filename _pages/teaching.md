@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 <div class="publications">
+
+<h2 class="bibliography">2023</h2>
+<ol class="bibliography">
+	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Human-Performance Capture</div></div></div></li>
+</ol>
+
 <h2 class="bibliography">2023</h2>
 <ol class="bibliography">
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction</div></div></div></li>
