@@ -18,6 +18,8 @@ nav_order: 5
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction</div></div></div></li>
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Computational Haptics</div></div></div></li>
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Computational Rationality</div></div></div></li>
+	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Computational Interaction</div></div></div></li>
+
 </ol>
 <h2 class="bibliography">2022</h2>
 <ol class="bibliography"> 
@@ -25,6 +27,7 @@ nav_order: 5
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Computational Haptics</div></div></div></li>
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction</div></div></div></li>
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Computer Science I</div></div></div></li>
+	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Computational Interaction</div></div></div></li>
 </ol>
 <h2 class="bibliography">2021</h2>
 <ol class="bibliography">
@@ -33,6 +36,7 @@ nav_order: 5
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction</div></div></div></li>
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Advanced Topics in Technical HCI</div></div></div></li>
 	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Ubiquitous Computing</div></div></div></li>
+	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Computational Interaction</div></div></div></li>
 </ol>
 <h2 class="bibliography">2020</h2>
 <ol class="bibliography">
