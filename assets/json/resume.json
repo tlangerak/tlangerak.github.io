@@ -18,6 +18,18 @@
     ]
   },
   "work": [
+
+        {
+      "name": "Computational Behavior Lab at Aalto University",
+      "position": "Postdoct",
+      "url": "https://cbl.aalto.fi",
+      "startDate": "2024-10-01",
+      "endDate": "",
+      "summary": "Modeling human behavior via Reinforcement Learning",
+      "highlights": [
+        "RL", "Computational Interaction"
+      ]
+    },
     {
       "name": "Meta Reality Labs",
       "position": "Research Scientist Intern",
@@ -36,7 +48,7 @@
       "url": "https://sophisti.nl",
       "startDate": "2014-09-01",
       "endDate": "2015-01-31",
-      "summary": "Working on computational solutions to Explainable AI problems in the HCI domain.",
+      "summary": "Working on cyber-physical prototypes",
       "highlights": [
         "Prototyping", "Software Development", "Electrical Engineering", "Industrial Design"
       ]
@@ -50,7 +62,7 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2018-10-01",
-      "endDate": "",
+      "endDate": "30-09-2024",
       "score": "",
       "courses": []
     },
