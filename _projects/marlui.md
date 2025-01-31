@@ -3,7 +3,7 @@ layout: distill
 title: MARLUI
 description: Multi-Agent Reinforcement Learning for Adaptive Point-and-Click UI
 importance: 1
-category: behavioral models
+category: 2024
 date: 2021-05-22
 related_publications: oulasvirta2018aalto
 

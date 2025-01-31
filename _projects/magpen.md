@@ -3,7 +3,7 @@ layout: distill
 title: MagPen
 description: Optimal control for electromagnetic haptic guidance systems
 importance: 1
-category: haptics
+category: 2020
 date: 2021-05-22
 related_publications: oulasvirta2018aalto
 

@@ -3,7 +3,7 @@ layout: distill
 title: Hedgehog
 description: Handheld spherical pin array based on a central electromagnetic actuator
 importance: 1
-category: haptics
+category: 2021
 date: 2021-05-22
 related_publications: oulasvirta2018aalto
 

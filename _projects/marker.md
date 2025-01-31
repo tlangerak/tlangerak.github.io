@@ -3,7 +3,7 @@ layout: distill
 title: Marker Localization
 description: Utilizing Synthetic Data in Supervised Learning for Robust 5-DoF Magnetic Marker Localization
 importance: 1
-category: haptics
+category: 2024
 date: 2021-05-22
 related_publications: oulasvirta2018aalto
 

@@ -3,7 +3,7 @@ layout: distill
 title: AIM
 description: Aalto Interface Metrics (AIM) A Service and Codebase for Computational GUI Evaluation
 importance: 1
-category: behavorial model
+category: 2018
 date: 2021-05-22
 related_publications: oulasvirta2018aalto
 

@@ -3,7 +3,7 @@ layout: distill
 title: Nonplanar Haptics
 description: Contact-free nonplanar haptics with a spherical electromagnet
 importance: 1
-category: haptics
+category: 2020
 date: 2021-05-22
 related_publications: oulasvirta2018aalto
 
