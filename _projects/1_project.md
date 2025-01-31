@@ -6,7 +6,7 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
----
+
 
 authors:
   - name: Albert Einstein
@@ -21,3 +21,5 @@ authors:
     url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
     affiliations:
       name: IAS, Princeton
+
+---
