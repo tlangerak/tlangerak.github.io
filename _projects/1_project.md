@@ -1,11 +1,12 @@
 ---
 layout: distill
-title: project 1
-description: a project with a background image
+title: AIM
+description: Aalto Interface Metrics (AIM) A Service and Codebase for Computational GUI Evaluation
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+date: 2021-05-22
+related_publications: oulasvirta2018aalto
 
 
 authors:
