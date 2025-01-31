@@ -3,7 +3,7 @@ layout: distill
 title: Omni
 description: Volumetric sensing and actuation of passive magnetic tools for dynamic haptic feedback
 importance: 1
-category: work
+category: haptics
 date: 2021-05-22
 related_publications: oulasvirta2018aalto
 

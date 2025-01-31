@@ -3,7 +3,7 @@ layout: distill
 title: Hierarchical Control
 description: Generalizing User Models through Hybrid Hierarchical Control
 importance: 1
-category: behavioral model
+category: behavioral models
 date: 2021-05-22
 related_publications: oulasvirta2018aalto
 
