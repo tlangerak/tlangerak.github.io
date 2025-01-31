@@ -1,53 +1,65 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Courses I TA'ed or taught.
+title: projects
+permalink: /projects/
+description: A growing collection of your cool projects.
 nav: true
-nav_order: 5
+nav_order: 4
+display_categories: [work, fun]
+horizontal: false
 ---
-<div class="publications">
 
-<h2 class="bibliography">2023</h2>
-<ol class="bibliography">
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Human-Performance Capture</div></div></div></li>
-</ol>
+<!-- pages/projects.md -->
+<div class="projects">
+{% if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endfor %}
 
-<h2 class="bibliography">2023</h2>
-<ol class="bibliography">
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Computational Haptics</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Computational Rationality</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Computational Interaction</div></div></div></li>
+{% else %}
 
-</ol>
-<h2 class="bibliography">2022</h2>
-<ol class="bibliography"> 
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Combinatorial Optimization</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Computational Haptics</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Computer Science I</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Computational Interaction</div></div></div></li>
-</ol>
-<h2 class="bibliography">2021</h2>
-<ol class="bibliography">
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Combinatorial Optimization</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">Lecture</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction: Computational Haptics</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Advanced Topics in Technical HCI</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Ubiquitous Computing</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Computational Interaction</div></div></div></li>
-</ol>
-<h2 class="bibliography">2020</h2>
-<ol class="bibliography">
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Human-Computer Interaction</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Advanced Topics in Technical HCI</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Ubiquitous Computing</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar on Computational Interaction</div></div></div></li>
-</ol>
-<h2 class="bibliography">2019</h2>
-<ol class="bibliography">
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Fairness, Equality, and Accountability in Machine Learning</div></div></div></li>
-	<li><div class="row"><div class="col-sm-2 abbr"><abbr class="badge">TA</abbr></div><div class="col-sm-8"><div class="title">Seminar in Computational Interaction</div></div></div></li>
-</ol>
+<!-- Display projects without categories -->
+
+{% assign sorted_projects = site.projects | sort: "importance" %}
+
+  <!-- Generate cards for each project -->
+
+{% if page.horizontal %}
+
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endif %}
 </div>
