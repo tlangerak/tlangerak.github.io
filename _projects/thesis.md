@@ -1,6 +1,7 @@
 ---
 layout: distill
-title: User Agency and System Automation in Interactive Intelligent Systems
+title: Dissertation
+description: User Agency and System Automation in Interactive Intelligent Systems
 importance: 1
 category: Ph.D. Thesis
 date: 2021-05-22
