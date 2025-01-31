@@ -1,9 +1,8 @@
 ---
 layout: distill
-title: Ph.D. Thesis
-description: User Agency and System Automation in Interactive Intelligent Systems
+title: User Agency and System Automation in Interactive Intelligent Systems
 importance: 1
-category: 2024
+category: Ph.D. Thesis
 date: 2021-05-22
 related_publications: oulasvirta2018aalto
 
