@@ -10,8 +10,6 @@ nav_order: 3
 <!-- pages/projects.md -->
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
-
 <div class="publications">
-
-{% bibliography %}
+ {% bibliography --template bib --group_by type,year --group_order ascending,descending %}
+</div>
