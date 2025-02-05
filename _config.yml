@@ -312,9 +312,10 @@ enable_publication_thumbnails: true
 
 
 sort_by: date
-order: descending, descending
-type_order: [phdthesis, inproceedings]
-type_names: {phdthesis: Dissertation, inproceedings: Peer-Reviewed}
+order: descending
+type_order: [phdthesis, article, inbook, book, unpublished, misc, report, conference, incollections, inproceedings, proceedings]
+type_names: {phdthesis: dissertation, unpublished: working papers, report: reports, article: journal articles, 
+      inproceedings: peer reviewed}
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
