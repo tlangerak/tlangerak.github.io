@@ -314,7 +314,7 @@ enable_publication_thumbnails: true
 sort_by: date
 order: descending
 type_order: [phdthesis, inproceedings]
-type_names: {inproceedings: Peer-Reviewed}
+type_names: {phdthesis: Dissertation, inproceedings: Peer-Reviewed}
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
