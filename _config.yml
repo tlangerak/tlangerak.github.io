@@ -312,7 +312,7 @@ enable_publication_thumbnails: true
 
 
 sort_by: date
-order: descending
+order: descending, descending
 type_order: [phdthesis, inproceedings]
 type_names: {phdthesis: Dissertation, inproceedings: Peer-Reviewed}
 
