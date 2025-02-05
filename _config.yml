@@ -295,6 +295,12 @@ scholar:
   group_by: year
   group_order: descending
 
+  sort_by: date
+order: descending
+type_order: [phdthesis, article, inbook, book, unpublished, misc, report, conference, incollections, inproceedings, proceedings]
+type_names: {phdthesis: dissertation, unpublished: working papers, report: reports, article: journal articles, 
+      inproceedings: peer reviewed}
+
 # Display different badges withs stats for your publications
 enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
@@ -311,11 +317,7 @@ more_authors_animation_delay: 10  # more authors are revealed on click using ani
 enable_publication_thumbnails: true
 
 
-sort_by: date
-order: descending
-type_order: [phdthesis, article, inbook, book, unpublished, misc, report, conference, incollections, inproceedings, proceedings]
-type_names: {phdthesis: dissertation, unpublished: working papers, report: reports, article: journal articles, 
-      inproceedings: peer reviewed}
+
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
