@@ -295,11 +295,6 @@ scholar:
   group_by: year
   group_order: descending
 
-  sort_by: date
-order: descending
-type_order: [phdthesis, article, inbook, book, unpublished, misc, report, conference, incollections, inproceedings, proceedings]
-type_names: {phdthesis: dissertation, unpublished: working papers, report: reports, article: journal articles, 
-      inproceedings: peer reviewed}
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
@@ -423,3 +418,10 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+sort_by: date
+order: descending
+type_order: [phdthesis, article, inbook, book, unpublished, misc, report, conference, incollections, inproceedings, proceedings]
+type_names: {phdthesis: dissertation, unpublished: working papers, report: reports, article: journal articles, 
+              inproceedings: peer reviewed}
