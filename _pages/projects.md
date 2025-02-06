@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: publications
+permalink: /publications/
 description: publications by categories in reversed chronological order.
 nav: true
 nav_order: 3
