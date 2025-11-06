@@ -272,8 +272,8 @@ scholar:
 
   sort_by: date
   order: descending
-  type_order: [article, inproceedings]
-  type_names: {article: dissertation, inproceedings: peer-reviewed}
+  type_order: [article, incollection, inproceedings]
+  type_names: {article: dissertation, incollection: work in progress, inproceedings: peer-reviewed}
 
   last_name: [Langerak]
   first_name: [Thomas]
