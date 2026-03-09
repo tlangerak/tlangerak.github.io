@@ -788,6 +788,11 @@ footer.sticky-bottom {
         transition: all 0.15s ease;
       }
 
+      .award {
+        color: var(--global-theme-color) !important;
+        border: 1px solid var(--global-theme-color);
+      }
+
       div.abstract.hidden {
         border: dashed 1px var(--global-bg-color);
       }
