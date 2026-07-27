@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Thomas Langerak",
-    "label": "Ph.D. Student",
     "image": "",
     "email": "hello@thomaslangerak.nl",
-    "phone": "+41 76 449 3027",
+    "phone": "+358 41 363 85 83",
     "url": "https://thomaslangerak.nl",
     "summary": "",
     "location": {
@@ -21,7 +20,7 @@
 
         {
       "name": "Computational Behavior Lab at Aalto University",
-      "position": "Postdoc",
+      "position": "Postdoctoral Researcher",
       "url": "https://cbl.aalto.fi",
       "startDate": "2024-10-01",
       "endDate": "",
@@ -135,6 +134,12 @@
 
   ],
   "awards": [
+        {
+      "title": "Honorable Mention for Best Paper Award",
+      "date": "2026",
+      "awarder": "CHI",
+      "summary": ""
+    },
     {
       "title": "NASA Europa Challenge Finalist",
       "date": "2019",
