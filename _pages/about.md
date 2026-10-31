@@ -14,6 +14,7 @@ profile:
     <p>Konemiehentie 1</p>
     <p>02150 Espoo</p>
     <p>Finland</p>
+    <p><a href="mailto:hello@thomaslangerak.nl">hello@thomaslangerak.nl</a></p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
